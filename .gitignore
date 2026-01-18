@@ -1,0 +1,21 @@
+Compiled Object files
+
+*.o
+*.obj
+
+Compiled Binaries
+
+*.exe
+*.out
+dbms
+dbms_debug
+
+Logs
+
+system.log
+*.log
+
+System Files
+
+.DS_Store
+Thumbs.db
